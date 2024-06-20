@@ -7,7 +7,7 @@
 <div id="datos">
     <h3>✔️ Datos:</h3>
     <p>
-	🔹 Proyecto final integrador para la plataforma Ticmas, bajo la formacion de Argentina Programa 4.0 <br>
+	🔹 Proyecto final integrador para la plataforma Ticmas, bajo la formación de Argentina Programa 4.0 <br>
         🔹 Desarrollado en HTML, CSS y JavaScript <br>
         🔹 CV aleatorio con datos personales, experiencia laboral y formaciones académicas <br>
     </p>
@@ -16,7 +16,7 @@
 ---
 
 <div id="caracteristicas">
-    <h3>⚙️ Caracteristicas:</h3>
+    <h3>⚙️ Características:</h3>
     <p>
         🔸 Permite modo nocturno <br>
         🔸 Navegación entre secciones por navbar o scroll <br>
