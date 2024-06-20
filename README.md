@@ -1,51 +1,40 @@
 <div id="titulo" align="center">
-    <h1 align="center">Proyecto CV Ticmas Academy</h1>
+    <h1>Proyecto CV Ticmas Academy</h1>
 </div>
 
 ---
 
-<div id="Caracteristicas" align="center">
-    <h2 align="center"> 🛠️ Especificaciones:</h2>
-    <h3>
-        Este proyecto fue creado para la plataforma Ticmas, bajo la formacion de Argentina Programa 4.0<br>
-        Desarrollado en HTML, CSS y javaScript.<br>
-        CV aleatorio de una persona con sus datos personales, experiencia laboral y formaciones academicas.<br>
-    </h3>
+<div id="datos">
+    <h3>✔️ Datos:</h3>
+    <p>
+	🔹 Proyecto final integrador para la plataforma Ticmas, bajo la formacion de Argentina Programa 4.0 <br>
+        🔹 Desarrollado en HTML, CSS y JavaScript <br>
+        🔹 CV aleatorio con datos personales, experiencia laboral y formaciones académicas <br>
+    </p>
 </div>
 
 ---
 
-<div id="datos" align="center">
-    <h2>💾 Datos:</h2>
-    <br>
-        Permite modo nocturno<br>
-        Navegacion por barra de navegacion o scroll<br>
-        Totalmente responsivo.<br>
+<div id="caracteristicas">
+    <h3>⚙️ Caracteristicas:</h3>
+    <p>
+        🔸 Permite modo nocturno <br>
+        🔸 Navegación entre secciones por navbar o scroll <br>
+        🔸 Totalmente responsivo <br>
+    </p>
 </div>
 
 ---
 
 <div id="capturas" align="center">
+    <h3 align="left"> 📷 Capturas:</h3>
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/TicmasCV/img01.png?raw=true" alt="Cap1" width="800">
     <br>
-    <h2> 📷 Capturas:</h2>
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/TicmasCV/img02.png?raw=true" alt="Cap2" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla1.png?raw=true" alt="Cap1" width="700">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/TicmasCV/img03.png?raw=true" alt="Cap3" width="800">
     <br>
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/TicmasCV/img04.png?raw=true" alt="Cap4" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla2.png?raw=true" alt="Cap2" width="700">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla3.png?raw=true" alt="Cap3" width="700">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla4.png?raw=true" alt="Cap4" width="700">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla5.png?raw=true" alt="Cap5" width="700">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla6.png?raw=true" alt="Cap6" width="400">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ProyectoTicmas/Pantalla7.png?raw=true" alt="Cap7" width="400">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/TicmasCV/img05.png?raw=true" alt="Cap5" width="800">
 </div>
